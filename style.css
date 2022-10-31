@@ -1,0 +1,41 @@
+body{
+    background-image: url("3204645.jpg");
+}
+h1{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+button{
+    color: blue;
+    border: solid 1px;
+    border-radius: 20PX;
+    padding: 15px 32px;
+    margin-left: 1170px;
+    font-size: 16px;
+    background-color: gold;
+    transition-duration: 0.4s;
+}
+header{
+    background-image: url("ht.jpg");
+    border: solid 2px green;
+    border-radius: 30px;
+    padding-bottom: 20px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border: solid 2px green;
+    border-radius: 10PX;
+    
+}
+img{
+    
+    width: 400px;
+    height: 250px;
+}
+#p1{
+    width: 100px;
+    height: 100px; 
+}
+
